@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.11 (lab1AI)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (LeetCode)" project-jdk-type="Python SDK" />
 </project>
